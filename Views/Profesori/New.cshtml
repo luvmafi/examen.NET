@@ -1,0 +1,29 @@
+﻿@model examenDAW.Models.Profesor
+
+<h2 class="text-center">Adaugare profesor</h2>
+<br />
+
+@using (Html.BeginForm(controllerName: "Profesori", actionName: "New",
+             method: FormMethod.Post))
+{
+    @Html.Label("Nume", "Numele Profesorului")
+    <br />
+    @Html.TextBox("Nume", null, new { @class = "form-control" })
+    <br />
+    @Html.Label("Prenume", "Prenume Profesor")
+    <br />
+    @Html.TextArea("Prenume", null, new { @class = "form-control" })
+
+    <br />
+    @Html.Label("Deadline", "When is the deadline of the project")
+    <br />
+    @Html.Label("Tip", "Tip Profesor")
+    @Html.DropDownListFor(m => m.Tip, Model.TipToate)
+
+
+    //for state we either make a dropdown or modify it in show based on what the user needs it to be
+
+    <br />
+    <button class="btn btn-success" type="submit">Create</button>
+
+}

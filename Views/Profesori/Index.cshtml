@@ -1,0 +1,11 @@
+﻿<h1>Profesori</h1>
+
+<br /> <hr /> <br />
+
+@foreach(var prof in ViewBag.Profesori)
+{
+	<div>
+		<h2>@prof.Nume</h2>
+		<h2>@prof.Prenume</h2>
+	</div>
+}

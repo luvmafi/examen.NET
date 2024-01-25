@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Materie>
+
+<h1>Materii</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nume</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var materie in Model)
+        {
+            <tr>
+                <td>@materie.Id</td>
+                <td>@materie.Nume</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,9 @@
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.csproj.AssemblyReference.cache
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.AssemblyInfoInputs.cache
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.AssemblyInfo.cs
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.csproj.CoreCompileInputs.cache
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.RazorAssemblyInfo.cache
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.RazorAssemblyInfo.cs
+C:\Users\mafte\source\repos\examenDAW\examenDAW\obj\Debug\net6.0\examenDAW.sourcelink.json

@@ -4,7 +4,7 @@
       "serviceConnectorResourceId": "",
       "secretStore": null,
       "type": "mssql.local",
-      "connectionId": "ConnectionStrings:examenDB",
+      "connectionId": "ConnectionStrings:ExamneDB",
       "dynamicId": null
     }
   }
